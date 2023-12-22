@@ -37,5 +37,5 @@ Welcome to my portfolio, where I showcase my projects.
 
 Feel free to reach out to me for potential collaboration or inquiries:
 
-- Email: [m.omar.altaher@gmail.com](mailto:m.omar.altaher@gmail.com)
-- LinkedIn: [linkedin.com/in/omar-altaher/](https://www.linkedin.com/in/omar-altaher/)
+- [Email](mailto:m.omar.altaher@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/omar-altaher/)
